@@ -85,6 +85,14 @@
     
 - Knowledge Graphs
     
+## Recent Research Themes
+
+- Software testing and debugging, especially regression testing for distributed and reactive systems, replay-based testing, and robustness analysis for state machines and statecharts.
+- AI-assisted software engineering, including LLMs for continuous testing, README generation, code coverage analysis, and DevOps support.
+- Knowledge graphs and graph neural networks for software analysis, test prioritization, and link prediction in microservice systems.
+- Distributed systems and microservices, with emphasis on behavior, performance, and maintenance in complex architectures.
+- Technical debt management and software quality, including prioritization of self-admitted technical debt chains.
+- IoT-aware and model-driven systems, especially in software engineering contexts.
 
 ---
 
