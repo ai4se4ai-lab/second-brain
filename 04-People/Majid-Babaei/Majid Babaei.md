@@ -403,7 +403,7 @@ Interview highlighting research and expertise in Software Testing and Debugging.
 
 ## Journal Articles
 
-### 1. RATEN
+### 1. [[RATEN]]
 
 **Majid Babaei and Yann Gueheneuc. (2026).**  
 _RATEN: An Efficient Robustness Analysis and Test Enhancement Framework for State Machines._  
@@ -444,7 +444,7 @@ _Improving the Effectiveness and Efficiency of Regression Testing for Distribute
 
 ## Conference Publications
 
-### 1. SIKG
+### 1. [[SIKG]]
 
 **Majid Babaei, Naser Ezzati-Jivan, and Lili Wei. (2026).**  
 _SIKG: A Semantic Impact Knowledge Graph Approach for Adaptive Test Selection and Prioritization._  
@@ -453,7 +453,7 @@ _SIKG: A Semantic Impact Knowledge Graph Approach for Adaptive Test Selection an
 - Status: Published
     
 
-### 2. TAAF
+### 2. [[TAAF]]
 
 **Ghazal Khodabandeh, Alireza Ezaz, Majid Babaei, and Naser Ezzati-Jivan. (2026).**  
 _TAAF: A Trace Abstraction and Analysis Framework Synergizing Knowledge Graphs and LLMs._  
@@ -462,7 +462,7 @@ _TAAF: A Trace Abstraction and Analysis Framework Synergizing Knowledge Graphs a
 - Status: Published
     
 
-### 3. Graph Neural Networks for Microservices
+### 3. [[Utilizing Graph Neural Networks for Effective Link Prediction]]
 
 **Ghazal Khodabandeh, Alireza Ezaz, Majid Babaei, and Naser Ezzati-Jivan. (2025).**  
 _Utilizing Graph Neural Networks for Effective Link Prediction in Microservice Architectures._  
@@ -473,7 +473,7 @@ _Utilizing Graph Neural Networks for Effective Link Prediction in Microservice A
 - Peer Reviewed: Yes
     
 
-### 4. MemAdapt
+### 4. [[MemAdapt]]
 
 **P. Chakraborty, Majid Babaei, L. Tahmooresnejad, and Naser Ezzati-Jivan. (2024).**  
 _MemAdapt: Adaptive Memory Usage Monitoring Using Irregularly Sampled Data._  
@@ -484,7 +484,7 @@ _MemAdapt: Adaptive Memory Usage Monitoring Using Irregularly Sampled Data._
 - Peer Reviewed: Yes
     
 
-### 5. Communication Semantics for IoT-aware Business Process Management
+### 5. [[Communication Semantics for IoT-aware Business Process Management Systems]]
 
 **Majid Babaei. (2024).**  
 _Communication Semantics for IoT-aware Business Process Management Systems._  
